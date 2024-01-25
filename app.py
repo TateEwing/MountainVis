@@ -30,6 +30,8 @@ st.title("My Outdoor Activity :man-mountain-biking: :snowboarder: :snow_capped_m
 st.pydeck_chart(deck)
 st.write('''
 This is a quick project I put together to refresh my skills working with data, and to learn about :red[Streamlit].
+My GPS location is represented in a cloud of points, with elevation gain within each activity represented by the color gradient.
+
 The data are from :orange[Strava], an app I use to track my :green[outdoor activities] :camping:.
 Scroll to the east along I-90 to see some of my regular spots.
 Most of my activities are around Seattle, but if you zoom out you'll see some places I've traveled to :car: :smile:.
